@@ -20,6 +20,10 @@ This project simulates various CPU scheduling algorithms and visualizes the proc
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AaravKashyap12/CPU-Scheduling-simulator.git---
+   git clone https://github.com/AaravKashyap12/CPU-Scheduling-simulator.git
+
+---
+
 ### Portfolio
-See more of my work at [https://www.aaravkashyap.live/](https://www.aaravkashyap.live/).
+
+See more of my work at [https://www.aaravkashyap.live/](https://www.aaravkashyap.live/)..
